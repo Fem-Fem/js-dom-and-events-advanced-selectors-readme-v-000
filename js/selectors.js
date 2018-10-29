@@ -7,7 +7,7 @@ The function should use the last jQuery selector to return the last image in ind
 //
 
 function lastImageSelector() {
-  $('#baby-ninja');
+  $('img:last');
 }
 function ninjaBabySelector() {
   $('#baby-ninja');
