@@ -16,7 +16,7 @@ $(document).ready(function() {
     $('.pics');
   }
 
-  $function firstListItem() {
+  function firstListItem() {
     $('#pic-list ul li:first-child');
   }
 
