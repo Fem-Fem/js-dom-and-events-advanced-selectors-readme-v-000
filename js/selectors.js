@@ -4,9 +4,9 @@ $(document).ready(function() {
     $('p');
   }
 
-$function lastImageSelector() {
-  $('img:last');
-}
+  function lastImageSelector() {
+    $('img:last');
+  }
 
 $function ninjaBabySelector() {
   $('#baby-ninja');
