@@ -12,9 +12,9 @@ $(document).ready(function() {
     $('#baby-ninja');
   }
 
-$function divSelector() {
-  $('.pics');
-}
+  function divSelector() {
+    $('.pics');
+  }
 
 $function firstListItem() {
   $('#pic-list ul li:first-child');
