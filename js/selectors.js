@@ -1,3 +1,5 @@
+$(document).ready(function() {
+
 function paragraphSelector() {
   $('p');
 }
@@ -17,3 +19,5 @@ function divSelector() {
 function firstListItem() {
   $('#pic-list ul li:first-child');
 }
+
+});
