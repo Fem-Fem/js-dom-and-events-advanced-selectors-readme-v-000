@@ -22,5 +22,6 @@ $(document).ready(function() {
 
   paragraphSelector();
   divSelector();
+  firstListItem();
 
 });
