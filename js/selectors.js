@@ -4,6 +4,9 @@
   }
 //     Write a function lastImageSelector that does not accept any parameters. The function should use the last jQuery selector to return the last image in index.html.
 //
+  function ninjaBabySelector() {
+    $('#baby-ninja');
+  }
 //     Write a function ninjaBabySelector that does not accept any parameters. The function should use an ID selector to return the ninja baby image.
 //
 //     Write a function divSelector that does not accept any parameters.
