@@ -21,6 +21,7 @@ function firstListItem() {
 $(document).ready(function() {
 
   paragraphSelector();
+  ninjaBabySelector();
   divSelector();
   firstListItem();
 
