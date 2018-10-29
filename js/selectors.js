@@ -20,4 +20,7 @@ function firstListItem() {
 
 $(document).ready(function() {
 
+  paragraphSelector();
+  divSelector();
+
 });
