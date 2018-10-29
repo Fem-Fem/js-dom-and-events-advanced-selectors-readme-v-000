@@ -2,8 +2,13 @@
 function paragraphSelector() {
   $('p');
 }
-//     Write a function lastImageSelector that does not accept any parameters. The function should use the last jQuery selector to return the last image in index.html.
+//     Write a function lastImageSelector that does not accept any parameters.
+The function should use the last jQuery selector to return the last image in index.html.
 //
+
+function lastImageSelector() {
+  $('#baby-ninja');
+}
 function ninjaBabySelector() {
   $('#baby-ninja');
 }
