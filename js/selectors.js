@@ -8,9 +8,9 @@ $(document).ready(function() {
     $('img:last');
   }
 
-$function ninjaBabySelector() {
-  $('#baby-ninja');
-}
+  function ninjaBabySelector() {
+    $('#baby-ninja');
+  }
 
 $function divSelector() {
   $('.pics');
