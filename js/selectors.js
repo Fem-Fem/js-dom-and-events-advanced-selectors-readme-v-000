@@ -5,6 +5,7 @@ function paragraphSelector() {
 function lastImageSelector() {
   $('img:last');
 }
+
 function ninjaBabySelector() {
   $('#baby-ninja');
 }
@@ -13,7 +14,7 @@ function ninjaBabySelector() {
 //     The function should use a class selector to return the two divs with the class pics.
 //     $('.pics');
 
-function ninjaBabySelector() {
+function divSelector() {
   $('.pics');
 }
 
