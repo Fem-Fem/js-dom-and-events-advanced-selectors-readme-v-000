@@ -1,22 +1,22 @@
 $(document).ready(function() {
 
-function paragraphSelector() {
+$function paragraphSelector() {
   $('p');
 }
 
-function lastImageSelector() {
+$function lastImageSelector() {
   $('img:last');
 }
 
-function ninjaBabySelector() {
+$function ninjaBabySelector() {
   $('#baby-ninja');
 }
 
-function divSelector() {
+$function divSelector() {
   $('.pics');
 }
 
-function firstListItem() {
+$function firstListItem() {
   $('#pic-list ul li:first-child');
 }
 
