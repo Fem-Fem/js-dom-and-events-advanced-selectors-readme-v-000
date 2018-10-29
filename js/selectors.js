@@ -16,8 +16,8 @@ $(document).ready(function() {
     $('.pics');
   }
 
-$function firstListItem() {
-  $('#pic-list ul li:first-child');
-}
+  $function firstListItem() {
+    $('#pic-list ul li:first-child');
+  }
 
 });
